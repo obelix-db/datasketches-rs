@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUST_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/ZeppelinRemoteNotebooks" />
+      <excludeFolder url="file://$MODULE_DIR$/datasketches-cpp/build/CMakeFiles" />
+      <excludeFolder url="file://$MODULE_DIR$/datasketches-cpp/build/common" />
+      <excludeFolder url="file://$MODULE_DIR$/datasketches-cpp/build/cpc" />
+      <excludeFolder url="file://$MODULE_DIR$/datasketches-cpp/build/fi" />
+      <excludeFolder url="file://$MODULE_DIR$/datasketches-cpp/build/hll" />
+      <excludeFolder url="file://$MODULE_DIR$/datasketches-cpp/build/kll" />
+      <excludeFolder url="file://$MODULE_DIR$/datasketches-cpp/build/req" />
+      <excludeFolder url="file://$MODULE_DIR$/datasketches-cpp/build/sampling" />
+      <excludeFolder url="file://$MODULE_DIR$/datasketches-cpp/build/theta" />
+      <excludeFolder url="file://$MODULE_DIR$/datasketches-cpp/build/tuple" />
+      <excludeFolder url="file://$MODULE_DIR$/datasketches-cpp/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
